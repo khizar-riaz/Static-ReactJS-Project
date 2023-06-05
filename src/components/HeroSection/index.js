@@ -47,7 +47,7 @@ const HeroSection = () => {
                         activeClass='active'
                         exact='true'
                         > 
-                        Get started 
+                        Get started
                         {hover ? <ArrowForward/> : <ArrowRight/>} 
                     </Button>
                 </HeroBtnWrapper>
